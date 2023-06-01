@@ -1,7 +1,7 @@
 name: network_usage
-description: A new Flutter plugin project.
+description: A Refactored data_usage plugin to fetch network usage on mobile devices.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Guo-astro/flutter_network_usage
 
 environment:
   sdk: '>=3.0.2 <4.0.0'

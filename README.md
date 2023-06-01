@@ -4,7 +4,7 @@ This a refactored lib for [Data Usage](https://github.com/Zfinix/data_usage/blob
 
 ## Getting Started
 
-## Usage for Android
+### Usage for Android
 
 - Initialize plugin and requests for permission
 - Request Data usage stats
@@ -36,7 +36,7 @@ This would return:
 
 
 
-## Usage for iOS
+### Usage for iOS
 
 Request for Total data usage on iOS devices
 
