@@ -1,3 +1,5 @@
+## 0.0.4
+* Update readme.
 ## 0.0.3
 * Update changelog.
 ## 0.0.2

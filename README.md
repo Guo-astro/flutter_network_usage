@@ -3,7 +3,11 @@
 This a refactored lib for [Data Usage](https://github.com/Zfinix/data_usage/blob/main/README.md)
 
 ## Getting Started
+- This package fix the following error when building Android 
+  ```
+  Class 'DataUsagePlugin' is not abstract and does not implement abstract member public abstract fun onRequestPermissionsResult(p0: Int, p1: Array<(out) String!>, p2: IntArray): Boolean defined in io.flutter.plugin.common.PluginRegistry.RequestPermissionsResultListener
 
+  ```
 ### Usage for Android
 
 - Initialize plugin and requests for permission
