@@ -1,6 +1,6 @@
 name: network_usage
 description: A Refactored data_usage plugin to fetch network usage on mobile devices.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Guo-astro/flutter_network_usage
 
 environment:
